@@ -1,7 +1,7 @@
 import React from "react";
 
 function Like() {
-  return <div>Like</div>;
+  return <div></div>;
 }
 
 export default Like;

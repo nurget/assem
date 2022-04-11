@@ -1,7 +1,7 @@
 import React from "react";
 
 function SuperRare() {
-  return <div>SuperRare</div>;
+  return <div></div>;
 }
 
 export default SuperRare;

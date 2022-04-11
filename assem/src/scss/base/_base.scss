@@ -40,17 +40,5 @@ html {
     padding: 2rem 4rem;
     @media screen and (min-width:280px) and (max-width:1080px) {
         padding: 0;
-        &::-webkit-scrollbar {
-            display: none;
-        }
     }
-}
-
-::-webkit-scrollbar {
-    background-color: #111111;
-    width: 0.2rem;
-}
-
-::-webkit-scrollbar-thumb {
-    background-color: var(--orange);
 }
