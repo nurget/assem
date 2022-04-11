@@ -1,12 +1,13 @@
 nav {
     display: flex;
+    padding-left: 3rem;
     justify-content: space-between;
     align-items: center;
 
     .assem-container {
         .assem {
             img {
-                height: 3rem;
+                height: 2.8rem;
             }
         }
         .toggle-container {
@@ -25,7 +26,7 @@ nav {
                 }
                 &:last-of-type {
                     a {
-                        color: rgb(255, 100, 134);
+                        color: aqua;
                     }
                 }
             }

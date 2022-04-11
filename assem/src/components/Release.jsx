@@ -1,7 +1,7 @@
 import React from "react";
 
 function Release() {
-  return <div>Release</div>;
+  return <div></div>;
 }
 
 export default Release;

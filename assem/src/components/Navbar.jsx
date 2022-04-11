@@ -3,7 +3,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import { MdClose } from "react-icons/md";
 import { ImSun } from "react-icons";
 import { BsFillMoonFill } from "react-icons/bs";
-import logo from "../assets/logo.png"; // 마땅한 로고가 없어서 일단 내 개인프로젝트에서 사용하던 로고 넣었음 수정 후 주석 제거하기
+import logo from "../assets/logo.png";
 
 export default function Navbar() {
   const [navState, setNavState] = useState(false);
